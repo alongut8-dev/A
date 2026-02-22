@@ -1,0 +1,5 @@
+{
+  "name": "YouTube Search & Play",
+  "description": "Search for YouTube videos and play them instantly using Gemini AI for discovery.",
+  "requestFramePermissions": []
+}
